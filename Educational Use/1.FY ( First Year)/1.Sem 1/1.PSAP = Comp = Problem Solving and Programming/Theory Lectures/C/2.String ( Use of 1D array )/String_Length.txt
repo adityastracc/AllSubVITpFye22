@@ -1,0 +1,23 @@
+//String Length
+
+#include <stdio.h>
+void main()
+{ 
+    char s[10],cnt=0;//S=10 BYTES
+    int i;
+    printf("\nEnter String: ");
+    scanf("%s",s);
+    printf("\nEntered String is:");//"pune\0"
+    for(i=0;s[i]!='\0';i++)
+    {
+        //s[0]='p' s[1]='u'  s[2]='n' s[3]='e'  s[4]='\0'  
+        printf("%c",s[i]);//pune
+    }
+    for(i=0;s[i]!='\0';i++)
+    {
+        cnt=cnt+1;//cnt=1  cnt=2  cnt=3  cnt=4 
+    }
+    printf("\nLength of string is: %d",cnt);
+    printf("\nLength of string %s is: %d",s,cnt);
+    //Length of the string VIT is: 3
+}

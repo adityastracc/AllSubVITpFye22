@@ -1,0 +1,10 @@
+Important Notice for the Assessment of all course projects. 
+All students will be ready with  ppt(RMAE), course projects of all subjects, EDI project with progress. 
+ There will be an Internal assessment from 2nd Feb to 5th Feb 2023. No student will remain absent.
+
+Important Notice for PSAP internal practical assessment
+It will be conducted from 6th to 11th feb. In your regular PSAP practical sessions.
+Each student will be provided with 2 problem statements. 1 from lab assignments and 1 from outside. Students need to write program on paper and type the program( code block), execute and show the output. 
+ Start to practice the C programs. 
+ Also work and complete PSAP Course projects
+

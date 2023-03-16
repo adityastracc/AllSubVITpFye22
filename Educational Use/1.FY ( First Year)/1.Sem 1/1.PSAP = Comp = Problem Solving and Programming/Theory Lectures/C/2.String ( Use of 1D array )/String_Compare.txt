@@ -1,0 +1,81 @@
+/*
+The strcmp() function
+This function compares two strings.
+It returns the ASCII difference of the first two non – matching characters in both the strings.
+
+If the difference is equal to zero ------ string1 = string2
+If the difference is positive ------- string1> string2
+If the difference is negative ------- string1 <string2
+
+
+
+1. Accept string 1 and string2 from user.
+2. Calcualte length of string 1 and string2 into n1 and n2 resply.
+3. compare two strings character by character
+3.1 if character of s1 is grater then character of s2 then string 1 is greater
+3.2 if character of s2 is grater then character of s1 then string 2 is greater
+3.3 if equal then continue the comparision
+3.4 if all characters are equal then both strings are equal
+*/
+
+
+
+
+#include <stdio.h>
+#include <string.h>
+void main()
+{
+int n1,n2,i,flag=0;
+char s1[10],s2[10];
+printf("\nEnter String1: ");
+scanf("%s",s1);
+printf("\nEnter String2: ");
+scanf("%s",s2);
+n1=strlen(s1);
+n2=strlen(s2);
+//if(n1>n2)
+//printf("\nString1 is greater");
+//else
+//{
+  //  if(n1<n2)
+    //printf("\nString2 is greater");
+    //else
+    //{
+        for(i=0;i<n1;i++)
+        {
+            if(s1[i]==s2[i])
+            continue;
+            if(s1[i]>s2[i])
+            {
+                printf("\nString1 is greater");
+                flag=1;
+                break;
+            }
+            if(s1[i]<s2[i])
+            {
+                printf("\nString2 is greater");
+                flag=1;
+                break;
+            }
+            
+        }
+        if(flag==0)
+        printf("\nBoth strings are equal");
+    
+    
+
+
+printf("\nEnter String1: ");
+scanf("%s",s1);
+printf("\nEnter String2: ");
+scanf("%s",s2);
+n1=strcmp(s1,s2);
+if (n1==0)
+printf("Equal");
+if(n1>0)
+printf("\nFirst String is greater");
+else
+printf("\nsecond String is greater");
+
+}
+

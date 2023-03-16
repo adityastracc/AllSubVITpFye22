@@ -1,0 +1,28 @@
+//string concate function
+
+#include <stdio.h>
+#include<string.h>
+int main()
+{
+    char s1[10],s2[10]; 
+    int i,n1;
+    printf("\nEnter First String: ");
+    scanf("%s",s1);
+    printf("\nEnter Second String: ");
+    scanf("%s",s2);
+    //i=10  j=20  i+j=30
+    //s1=vit  s2=pune s1+s2=vitpune  s1=s1+s2=vitpune  
+    n1=strlen(s1); //n1=3  s1[2]t s1[3]='\0'
+    for(i=0;s2[i]!='\0';i++)
+    {
+        s1[n1]=s2[i];//s1[3]=p s1[4]=u....
+        n1++;
+    }
+    s1[n1]='\0';
+    printf("\nConcatinated String is:%s",s1);
+printf("\nConcatinated String using built in function is:%s",strcat(s2,s1));//s1=s1+s2
+    
+    
+    
+   
+}

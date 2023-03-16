@@ -1,0 +1,21 @@
+//String Copy Function
+
+#include<stdio.h>
+void main()
+{
+    char s1[10],s2[10]; 
+    int i,n1;
+    printf("\nEnter String: ");
+    scanf("%s",s1); 
+    //s1=vitune s2=NULL
+    //s1=vitpune s2=vitpune
+    for(i=0;s1[i]!='\0' ;i++)
+    {
+        s2[i]=s1[i];//s2[0]=v s2[1]=i ....
+    }
+    s2[i]='\0';
+    printf("\nFirst string is:%s",s1);
+    printf("\nSecond string is:%s",s2);
+    printf("\nCopied string using built in function:%s",strcpy(s2,s1));
+     
+}

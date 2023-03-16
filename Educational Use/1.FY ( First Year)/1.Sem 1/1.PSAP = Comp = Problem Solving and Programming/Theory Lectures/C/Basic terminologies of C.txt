@@ -1,0 +1,10 @@
+# - Preprocessor
+include- keyword for compiler to understand include a file
+
+
+%d , %s -, etc --- Format specifier of the type of variable
+
+
+& = ampersand
+
+Case sensetive language

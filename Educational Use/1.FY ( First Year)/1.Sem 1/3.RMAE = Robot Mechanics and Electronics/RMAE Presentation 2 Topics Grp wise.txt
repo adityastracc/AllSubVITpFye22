@@ -1,0 +1,15 @@
+Group
+1 ir and ultrasonic sensor
+2. Thermocouple and RTD sensor
+3.monostable and bistable multivibrators
+4 .MOSFET 
+5 . diac construction and working
+6. Triac construction and working
+7. IGBT
+8.flip floo rs and jk
+9.identification of diode and transistor terminals
+By identification,digital multimeter,color coding of resistor
+10.  HRC Fuse/ELCB
+
+11.astable multimeter
+12 zenor diode led construction and working

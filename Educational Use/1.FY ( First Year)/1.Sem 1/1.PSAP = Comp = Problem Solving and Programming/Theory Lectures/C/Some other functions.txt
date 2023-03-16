@@ -1,0 +1,19 @@
+Absolute value function - -    rounds off value.
+
+abs();
+
+math.h
+
+
+do while loop, loop executed at least once, then condition is chekcked
+
+In a way ,more for loops , means more dimension
+eg
+*
+**
+***
+****
+
+ascii value = 65 = capital 'A'
+ascii value = 97 = small 'a'
+

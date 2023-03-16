@@ -1,0 +1,42 @@
+#include <stdio.h>
+void main()
+{
+int i,j,r,c,m[10][10],t[10][10];
+printf("\nEnter Number of Rows:");
+scanf("%d",&r);//3
+printf("\nEnter Number of Columns:");
+scanf("%d",&c);//3
+printf("\nEnter The Matrix Elements: ");
+for(i=0;i<r;i++)     //i=0   
+{
+    for(j=0;j<c;j++)//j=0  j=1  j=2 j=3
+    {
+        scanf("%d",&m[i][j]);//m[0][0] m[0][1]  m[0][2]
+    }
+}
+printf("\n The Original Matrix is:\n ");
+for(i=0;i<r;i++)     //i=0  i=1
+{
+    for(j=0;j<c;j++)//j=0  j=1  j=2 j=3
+    {
+        printf(" %d ",m[i][j]);//m[0][0] m[0][1]  m[0][2]
+    }
+    printf("\n");
+}
+
+printf("\n The Tranpose of Matrix is:\n ");
+for(i=0;i<c;i++)     //i=0  i=1 
+{
+    for(j=0;j<r;j++)//j=0  j=1  j=2 j=3
+    {
+        printf(" %d ",m[j][i]);//m[1][0] m[0][1]
+    }
+    printf("\n");
+}
+
+
+ 
+
+}
+
+
