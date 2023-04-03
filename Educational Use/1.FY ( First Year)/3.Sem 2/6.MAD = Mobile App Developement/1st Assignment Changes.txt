@@ -1,0 +1,5 @@
+Put import androidx.appcompat.app.AppCompatActivity;
+
+instead of import android.support.v7.app.AppCompatActivity; 
+
+( add the line in comments using // )
