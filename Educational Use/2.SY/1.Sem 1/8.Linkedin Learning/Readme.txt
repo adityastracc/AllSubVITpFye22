@@ -1,0 +1,1 @@
+If you received mail from IT co-ordinator, please do the Linkedin learning courses this semester to pass the courses

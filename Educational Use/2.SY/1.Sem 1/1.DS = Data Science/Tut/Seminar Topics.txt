@@ -1,0 +1,26 @@
+Data Science Group wise topic allocation for Seminar - 
+
+Batch 1 - 
+Group 1: Use of Data Science in automotive Industry, 
+Group 2: Use of Data Science in Criminal Investigations , 
+Group 3: Maintenance scheduling in manufacturing sector using Data Science, 
+Group 4: Probability Trees 
+Group 5: Use of Data Science in Healthcare applications.
+
+
+
+Batch 2 - 
+Group 1: Use of Data Science in Air Traffic Control, 
+Group 2: Use of Data Science in Food Delivery, 
+Group 3: Customer Review Analysis using Data Science,
+Group 4: Time Series Analysis, 
+Group 5: Use of Data Science in speech recognition.
+
+
+
+Batch 3 -
+Group 1: Data Science in tax collection and revenue generation,
+Group 2: Data Science for meteorological applications,
+Group 3: Data Science in Agriculture,
+Group 4: Use of Data Science in Cricket,
+Group 5:: Use of Data Science in pharmaceutical industry

@@ -1,0 +1,20 @@
+6 Practicals - 6 weeks
+4-5 Weeks -- for Course Project
+
+----
+Wireless board, nodemcu, controlled action, getting data on cloud....
+
+---
+Things we are going to use
+Node MCU, 
+choosen as -- - it has WiFi as well. 
+
+2 on board LEDs
+LM35 sensor
+Acctuator interfacing.
+
+ Mathworks Things speak ( matlab company )   -- platform -- for IOT ..  ..
+
+Course Project Report - in IEEE format ./ ~ Another manuscript to be written 
+
+Cisco PacketTracer .

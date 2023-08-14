@@ -1,0 +1,9 @@
+Points from the meet : -  @Aayush Chavan add if I miss anything, others do msg me or put on unoff grp if I miss something
+
+1 > Course Project Should have minimum 5 tables = as there are 5 members in each grp in our div.
+2 > Lab assessment is continuous, so attendance + assignments done  would matter. 
+3 > We are Expected to perform those sql-querries, which we do in lab oo our course project as we learn.
+4 > No SQL isn't allowed for course project
+5 > Backend needs to be a RDBMS ( Relational Database ), frontend can be programmed in any app, like java, or other. 
+6 > All Seminar Topics should be relevant with DBMS, eg. If Amazon AWS is your topic, you need to specifically focus on database management part of AWS . 
+7 > Lab marks will be shown by the teacher .  Seminar marks  - Not sure

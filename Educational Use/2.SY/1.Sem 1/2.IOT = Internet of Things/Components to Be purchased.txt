@@ -1,0 +1,15 @@
+PF the list of components, to be purchased for IoT labs:-
+(everyone should ensure availability of these components for the next lab session)
+
+1. Node MCU V2 LUA based ESP8266 Development Kit CP-2102 E 391 -1
+(Purchase the board which has 2 built-in LEDs)
+2. Bread board for mounting node mcu and components -1 (std company and std size). Do not purchase the board of smaller size.
+* Also check that Node MCU fits correctly over the breadboard at the center part, leaving at least one row free on both sides of it, for making external connections to the pins)
+3. LM 35 -1 (preferably with one spare LM35) 
+4. Resistor:- 200ohm -10 75ohm -10
+5. Buzzer -1
+6. Push Buttons -2
+7. LED -  green - 5  and red -5
+8. Male-female connector wires - 40(One Strip)
+Purchase all 3 types of wires.
+9. USB connecting wire to connect node mcu to laptop with microUSB connector 

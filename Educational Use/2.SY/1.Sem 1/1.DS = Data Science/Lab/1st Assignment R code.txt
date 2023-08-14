@@ -1,0 +1,32 @@
+f1<-read.csv("Expt 1- Dataset_3_pollutant_csv (1).csv") 
+#1.   	What is the mean of “Temp” when “Month” is equal to 6?
+m<-mean(f1$Temp[f1$Month==6],na.rm=TRUE)
+cat("mean of temp when month is 6:",m)
+ 
+#2.   	How many observations are there in the given data?
+n<-nrow(f1)
+cat("\n no. of observation:",n)
+ 
+#3.   	Print last two rows of the data.
+u<-tail(f1,2)
+print(u)
+ 
+#4.   	What is the value of Ozone in 47th row?
+v<-f1$Ozone[47]
+cat(" value of Ozone in 47th row:",v)
+ 
+#5.   	How many values are missing in Ozone column?
+ms<-sum(is.na(f1$Ozone)) #is.na checks missing values
+cat("\n the no. of missing value is :",ms)
+ 
+#6.   	What is the mean of Ozone column excluding missing values?
+mn<-mean(f1$Ozone,na.rm=T) #na.rm is used to remove null(na) values
+cat("\n Mean of Ozone excluding missing value:",mn)
+ 
+#7.   	Extract the subset of rows of the data frame where Ozone values are above 31 and Temp values are above 90.   What is the mean of Solar.R in this subset?
+mn1<-mean(f1$Solar.R[f1$Ozone>31 & f1$Temp>90],na.rm=T) #mean of solar.R whose ozen and temp value are mentioned
+cat("\n mean of solar.r for Ozone is: ",mn1)
+ 
+#8.   	What was the maximum ozone value in the month of May (i.e. Month is equal to 5)?
+mx<-max(f1$Ozone[f1$Month==5],na.rm=T)
+cat("\n max value of ozone: ",mx)s
