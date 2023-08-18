@@ -1,0 +1,7 @@
+3 Snapshots, of Cisco Packet tracer
+
+1 > List of Original -- devices .  ( as given in the pkt file ) 
+
+2> One Wired device added
+
+3> One Wireless device added
