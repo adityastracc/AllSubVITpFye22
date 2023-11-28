@@ -1,0 +1,66 @@
+//Unoff-followed Timetable : 
+
+https://docs.google.com/spreadsheets/d/1ZfiU5txJhDFmAe5USJeO1c5NJtjpn6U2/edit?usp=sharing&ouid=107919610046999776059&rtpof=true&sd=true
+
+// VOLP DS b1& b2 = NLAJ75
+
+// Cabins 
+
+DOME - HOD - S.M. Lambor mam cabin 1201
+
+Neha Rajas Mam ( Class Teacher )- 1210
+
+Kaushalya Mam, Ranjeet Suryavanshi Sir - 1320 or 1210
+
+Kavita Sultanpure Mam Cabin - 1205 / 1204
+
+Ashutosh Marathe sir - Dean Academics - Dean's office, Ground Floor - 1005, behind student section
+
+Kishori degaonkar ma'am - 1204
+
+Vrinda Parkhi Mam :- 1207
+
+Palomi Gawli Mam :- 1110  
+
+// File repositories :- 
+
+Github - https://github.com/adityastracc/AllSubVITpFye22/tree/main/Educational%20Use
+
+Mega - ( Backup Repository ) https://mega.nz/folder/iFV0VJKa#HhGmT0JZYorOR9V0RHhsLQ
+
+// EDAI Group numbers & members spreadhseet , and OOPS CP
+
+https://docs.google.com/spreadsheets/d/1bOQi2m0Rk2BlGEfdpOu3xYlkjmmidnyA6SLhBmpni2A/edit#gid=0
+
+//Official Faculty Created Groups
+
+1 -> SY IT-A Sem-1 23-24 -- Official Group created by Faculty of Multidisciplinary Engineering department
+https://chat.whatsapp.com/DvgaiGQHFsKHQYSPboMElR
+
+2 -> SY IT-A -- Official Group created by Faculty of IT department
+https://chat.whatsapp.com/JhaqZIVWFRNG7tAkVANgik
+
+3 -> DBMS PPT Theory -
+https://chat.whatsapp.com/H9IplY2s
+
+// Official Batchwise Groups - being used for DBMS
+
+IT-A Batch-1 Official - https://chat.whatsapp.com/JOOl9Jy7b7K2UpnNJJH3z2
+
+IT-A Batch-2 Official - https://chat.whatsapp.com/J0pS0hjqDwu2VBGyGAcxNu
+			
+IT-A Batch-3 Official - https://chat.whatsapp.com/JInPHexpiFdBBJA6yZAKm3
+
+//Unofficial Groups
+
+IT-A Batch-1 Unoff  https://chat.whatsapp.com/IPWBHkezqwYKP5j2JeJR3f
+
+IT-A Batch-2 Unoff // All members already added https://chat.whatsapp.com/KeyFugLJrre6tG0alerA3D
+
+IT-A Batch-3 Unoff https://chat.whatsapp.com/GPKk3PaWMbKGtd3t901qxv
+
+// Other Links
+
+//DBMS Software :- Drive Link https://drive.google.com/drive/folders/11CB9823ALr9d2odVhpi9b4T9r4WZLvnt
+
+// DS Lab :- https://drive.google.com/drive/folders/1oop97uVj4QrrXFhUxC2Cf2N08xmY7IKp
