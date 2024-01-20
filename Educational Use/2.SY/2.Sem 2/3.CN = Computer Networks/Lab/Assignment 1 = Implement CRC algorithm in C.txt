@@ -1,0 +1,3 @@
+Implement CRC without copying online algorithms 
+
+Write a doc in word and upload

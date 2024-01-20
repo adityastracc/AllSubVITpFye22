@@ -1,0 +1,9 @@
+Implement Stack,  Queue and Queue using Linked List in C / CPP
+
+Implement its various functions like push, pop, is full, is empty,
+
+Implement enqueue deque, 
+
+implement node, structures, etc. 
+
+Do a writeup and upload word file

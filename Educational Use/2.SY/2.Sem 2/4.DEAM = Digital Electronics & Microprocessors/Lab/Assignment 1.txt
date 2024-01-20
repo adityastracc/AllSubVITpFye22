@@ -1,0 +1,10 @@
+List about various Gates, and its symbols. Write truth tables
+AND, OR, NOR, XOR, NAND,NOT etc
+
+
+Prove
+1> A + A'B = A + B 
+
+2> AB + A'C = (A + C) (A' + B)
+
+Write truth tables while solving above, solve by theorem first. Draw Gate diagram

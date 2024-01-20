@@ -1,0 +1,3 @@
+Convert binary gray code and BCD code to excess3 code using logical gates.
+
+Draw it's KMAP of both binary, gray code as well excess3
