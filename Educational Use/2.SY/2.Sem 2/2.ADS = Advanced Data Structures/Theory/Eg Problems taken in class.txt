@@ -1,0 +1,69 @@
+ 1. If tree is empty, create newnode as rootnode with
+color Black
+2. If tree is not empty, create newnode as leaf node
+with color Red
+3. If parent of newnode is Black then exit
+4. If parent of newnode is Red , then check the color
+of parent’s sibling of newnode:
+(a ) If color is Black or null then do suitable rotation
+and recolor (such that the root of the subtree is Black
+and children are Red)(b) If color is Red then recolor (
+parent and parent’s sibling) and also check if parent’s
+parent of newnode is not rootnode then recolorand
+recheck
+rules: -> root color = Black -> no two adjacent Red
+nodes -> count of Black nodes in each path is equal
+
+
+
+
+
+
+Construct AVL Tree for the following sequence of numbers-
+
+50 , 20 , 60 , 10 , 8 , 15 , 32 , 46 , 11 , 48
+
+
+
+
+
+
+Create RBT 
+Insert 2, 1, 4, 5, 9, 3, 6, 7
+
+
+
+
+
+
+
+ Suppose the numbers 7 , 5 , 1 , 8 , 3 , 6 , 0 , 9 , 4 , 2 are inserted in that order into an initially empty binary search tree. The binary search tree uses the usual ordering on natural numbers.
+
+What is the inorder traversal sequence of the resultant tree?
+
+
+
+
+
+
+
+The preorder traversal sequence of a binary search tree is-
+
+30 , 20 , 10 , 15 , 25 , 23 , 39 , 35 , 42
+
+
+
+
+
+What one of the following is the postorder traversal sequence of the same tree?
+
+10 , 20 , 15 , 23 , 25 , 35 , 42 , 39 , 30
+15 , 10 , 25 , 23 , 20 , 42 , 35 , 39 , 30
+15 , 20 , 10 , 23 , 25 , 42 , 35 , 39 , 30
+15 , 10 , 23 , 25 , 20 , 35 , 42 , 39 , 30
+
+
+
+
+Construct AVL Tree for
+7,14,2,5,10,33,56,30,15,25,66,70,4
