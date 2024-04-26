@@ -4,6 +4,7 @@ https://www.mendix.com/evaluation-guide/evaluation-learning/certification-talent
 For CN course Project .
 
 To learn : Rapid App Development
+Website : https://academy.mendix.com/link/paths/31/Become-a-Rapid-Developer
 
 To learn : how to develop frontend, do integration.
 . And finally implement project title using mendix.
