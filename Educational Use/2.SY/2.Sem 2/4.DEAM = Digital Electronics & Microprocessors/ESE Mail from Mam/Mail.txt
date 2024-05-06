@@ -1,0 +1,31 @@
+
+deepali deshpande
+Attachments
+Mon, May 6, 3:45 PM (9 hours ago)
+to syita
+
+Dear students 
+
+pls note
+
+Section 1 is based on digital electronics. 
+1. Refer Kharate for all types of example practice , e.g to express the in minterms, its canonical formation, solving by using kmap,all types of code conversion examples: e.g BCD-Gray/binary-gray, etc. Examples based on multiplexer, decoder e.g to solve SOP using multiplexer , decoder or to design some combinational circuit using multiplexer , decoder 
+2. all types of flipflop circuits , their excitation table and  application design e.g counter(asyn and syn), sequence generator, etc
+
+Section 2: Refer only the ppt or pdfs attached in this email.
+8086 arch, mem segmentation, physical addr examples, addressing modes with examples, instruction type with examples, minimum mode and maximum mode theory and timing diagram for minimum mode : mem read/write and IO read/write
+Interrupt types  , vector table and Architecture of 8259 priority interrupt controller
+
+
+
+Thanks and Regards 
+-----------------------------------------------------------
+Deepali Rahul Deshpande 
+PhD Research Scholar at Shivaji University,
+Assistant Professor 
+Assistant Head, Academics 
+Department of Information Technology 
+Vishwakarma Institute of Technology,Bibwewadi,
+Pune 411037,Maharashtra, India
+Email ID: deepali.deshpande@vit.edu  
+9665095574
