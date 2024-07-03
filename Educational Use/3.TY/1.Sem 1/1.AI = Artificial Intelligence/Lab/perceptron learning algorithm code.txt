@@ -1,0 +1,53 @@
+
+
+void main()
+{
+int X={1,-2,1.5,0;1,-0.5,-2,-1.5;0,1,-1,1.5}; // input matrix
+ int w={1,-1,0,0.5};//initial weight vector
+ int d={1,-1,1};//desired output
+   int c=1;// learning rate >0
+ float net, output;
+int i,j;
+float error=0;
+ 
+ while(error>0)
+{ 
+  error=0;
+
+  for (i=0;i<3;i++)
+  {
+       net=0;
+      //calculate net
+     for(j=0;j<4;j++)
+     {
+      
+       net=net+(X(i,j)*w(j));
+     
+      // compute output
+       output=sgn(net);
+
+     if(output!=d(i))
+         for(k=0,k<4,k++)
+          {
+             w(k)=w(k)+c*(d(i)-output(i))*X(i,k);
+         }
+     }
+    }  
+       error=error+(d(i)-output(i));
+        
+   }
+   //print w
+ }
+
+  // print final weight vector
+}
+
+
+
+int sgn(float netvalue)
+{
+    if netvalue>0
+         return 1;
+    else 
+        return -1;
+}
