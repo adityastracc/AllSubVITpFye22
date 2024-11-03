@@ -1,0 +1,11 @@
+Hey Guys, A lot of you had messaged me regarding various different queries related to certification of Azure Course, and inability to access Nvidia Courses. 
+
+Unless Vishwakarma Institutes / Vishwakarma University Arranges for in-person Certification Exam, we won't be getting any Certificates.
+
+If you still wish to have these certificates, feel free to visit :
+
+https://learn.microsoft.com/en-us/credentials/certifications/schedule-through-pearson-vue?examUid=exam.AZ-900&examUrl=https%3A%2F%2Flearn.microsoft.com%2Fcredentials%2Fcertifications
+OR
+https://certiport.pearsonvue.com/Certifications/Microsoft/Schedule
+
+Note: Certification isn't Free, and it will cost you around $52.00 [ USD ]  or Around INR 4400

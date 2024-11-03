@@ -1,0 +1,3 @@
+For Theory files ---  unit 1,2,3,4,5 --- are important, and 8 puzzle is important.
+
+Rest are lab related files. 11th file of Perceptron is for both lab and theory .

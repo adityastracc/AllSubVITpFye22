@@ -1,0 +1,8 @@
+Ai Lab Assignment : 3,4. 5
+
+Download Prolog Software 
+http://www.swi-prolog.org/download/stable
+
+Direct Link : https://www.swi-prolog.org/download/stable/bin/swipl-9.2.7-1.x64.exe
+
+Copy Code, Run assignments Kb1 to KB5

@@ -1,0 +1,32 @@
+No static input , 
+
+Reader , writer --> mutex and thread , semaphore, 
+
+Producer consumer -> semaphore and mutex 
+
+
+Show that which reader / writer is reading or writing the data on screen.
+
+Show who is in crtiical region
+
+
+Display buffer for each operation in producer consumer.
+
+Print buffer full buffer empty as required
+And as well about the ciritical regions
+
+
+For bankers algorithn
+
+N :number of processes
+M: number of resources.
+
+Take allocation matrix from user
+Take max matrix from user 
+
+Show total - allocation vector - to show available vector for each resource.
+Which we comparw with need of available resources.
+
+
+4 matrixes as final output.
+And a safe sequence if safe sequence possible = true

@@ -1,0 +1,75 @@
+Dear Students,
+
+
+
+Thank you for your interest in the NVIDIA DLI Fundamentals of Deep Learning workshop, organized on 23 rd August 2024 (Friday) from 11:30 am -19:30 pm (IST).
+
+ 
+
+We will start at 11:30 am (IST) and finish by 19:30 (IST).
+
+ 
+
+We will use the YouTube stream https://youtube.com/live/QiZqILqABM4?feature=share with a chat for the training and virtual machines provided by NVIDIA for the lab practices.
+
+ 
+
+Please follow the instructions below to be prepared for the training day. This is a private event; sharing the invitation is not allowed.
+
+ 
+
+1.      Create or log into your NVIDIA Developer Program account at
+
+https://developer.nvidia.com/developer-program
+
+ 
+
+2.      For enrollment, the key will be shared on the workshop. Students should go to https://learn.nvidia.com/dli-event and enter the access code.
+
+ 
+
+3.      You should access to this course in your dashboard (https://learn.nvidia.com/my-learning) after the enrollment.
+
+ 
+
+4.      Make sure WebSockets works for you.
+
+Visit http://websocketstest.courses.nvidia.com and make sure all three test steps are marked in green. If there are any issues, try updating your browser or using a different one. The minimum requirement for bandwidth is 1Mbps per machine.
+
+ 
+
+5.      Note that NVIDIA supports only the Chrome and Firefox browsers. Others could potentially also work, but are not supported officially, therefore technical issues may arise when using other alternatives.
+
+ 
+
+As Webex is a third-party tool, I advise you to use the installed desktop version of the Webex application. Try to update or use another browser if you are receiving a “Bad Request” during the Webex connection.
+
+ 
+
+6.      Website Access (ensure none of these are blocked by firewall or VPN)      
+
+Ability to reach and log into NVIDIA websites:
+
+https://www.nvidia.com      
+
+https://courses.nvidia.com      
+
+https://developer.nvidia.com        
+
+https://developer.nvidia.com/dli/getready      
+
+ 
+
+7.      Please test your system/audio. A headset might be useful to get the best audio quality possible and limit background noise and feedback. You will be responsible for resolving these issues.
+
+ 
+
+8.      15 minutes before your event time, please visit and log into the session at
+
+https://youtube.com/live/QiZqILqABM4?feature=share
+
+
+
+
+https://learn.nvidia.com/dli-event#
+Key: UDEB_FDL_AMBASSADOR_AU24
