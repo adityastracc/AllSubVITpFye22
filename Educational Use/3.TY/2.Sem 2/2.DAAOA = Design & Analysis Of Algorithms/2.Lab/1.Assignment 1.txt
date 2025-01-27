@@ -1,0 +1,10 @@
+Lab Assignment 1 Title : Matrix multiplication of two square matrices of size n x n 
+
+Try up to 100 x 100 matrix.
+
+Draw Graphs of 
+Total Number of Operations vs Matrix Size 
+
+Total Number of Additions vs Matrix Size
+
+Total Number of Multiplications vs Matrix Size

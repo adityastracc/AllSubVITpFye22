@@ -1,0 +1,14 @@
+Graphs
+N vs time
+N vs number of swaps
+
+Quick sort
+
+Substitution method...
+Or
+Recursion method
+Or
+Master theorem
+Approach
+
+For quick sort - lab 2

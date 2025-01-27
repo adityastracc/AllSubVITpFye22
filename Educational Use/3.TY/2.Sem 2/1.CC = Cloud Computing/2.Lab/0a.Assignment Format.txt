@@ -1,0 +1,12 @@
+It should be Doc/PDF with the following contents-
+1) Assignment No. 
+
+2) Title of the Assignment
+
+3) Problem statement
+
+4) Code
+
+5) Screenshot of the output
+
+6) Conclusion

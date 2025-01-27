@@ -1,0 +1,5 @@
+Step 1 : Write down the algorithm in pseudo c language
+Step 2 : Write a computer program to execute this algorithm for various values of n and measure the execution time.
+For eg. N     vs Time ------ 5 – 100 ms, 10 – 200 ms --- check it for atleast 10 inputs
+Step 3 : Find out the time complexity.
+Step 4 : Plot a graph n vs execution time T. for your 10 inputs.
