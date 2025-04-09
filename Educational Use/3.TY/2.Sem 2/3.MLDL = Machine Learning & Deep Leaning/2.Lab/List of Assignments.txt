@@ -1,0 +1,11 @@
+Lab 1: Data Preprocessing and statistical analysis for numerical and text data
+
+Lab 2: Write Python code to apply Linear Regression and Logistic Regression for different datasets. Study different types of Regression techniques. Write Python code to apply Linear Regression and Logistic Regression for different datasets. Study different types of Regression techniques.
+
+Lab 3: Write Python code to perform Data Augmentation using affine transform
+
+Lab 4: Write a python code to implement Decision tree and random forest classifier for a suitable use case.
+
+Lab 5: Write Python code to apply different types of Dimensionality Reduction techniques on given data set. 
+
+Lab 6: Write Python code to apply Convolutional Neural Network for the given data set.

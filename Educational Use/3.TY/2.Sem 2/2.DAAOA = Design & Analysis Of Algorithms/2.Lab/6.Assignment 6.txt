@@ -1,0 +1,10 @@
+DAAOA Lab Assignment Number 6
+
+1. What is encoding ? 
+2. What is decoding ? 
+3. Difference between variable length code & fixed length code.
+4. What are advantages of variable length coding over fixed length coding ?
+5. What is Huffman Coding ? Why it is used ?
+6. How to create and use Huffman Coding Tree 🎄?
+
+Prepare a World File Corresponding to Lab 6.
